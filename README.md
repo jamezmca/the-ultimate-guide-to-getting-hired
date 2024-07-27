@@ -6,7 +6,7 @@ At the core of getting hired, there are 3 main steps that a huge majority of peo
 
 If you follow this guide you will become one of the top candidates every single time.
 
-## Getting Prepared - Are You Ready to Apply for Jobs?
+## ⭐️ Getting Prepared - Are You Ready to Apply for Jobs?
 
 The first step to becoming a hireable candidate is to prepare yourself for a successful job hunt. There are two primary elements to this part of the job hunt, with some extra parts that are industry specific.
 
@@ -64,7 +64,9 @@ Sure, here's a succinct Markdown guide for creating a simple yet effective Linke
 
 For example - *Results-driven IT professional with 5+ years of experience in cloud computing and software development. Passionate about leveraging technology to solve complex problems and improve business processes. Seeking opportunities to contribute to innovative projects and collaborate with dynamic teams.*
 
-4. **Detail Your Work Experience**: Use bullet points to describe your key responsibilities and achievements for each role. For example:
+4. **Detail Your Work Experience**: Use bullet points to describe your key responsibilities and achievements for each role. 
+
+For example:
   
 **Software Engineer at TechCorp**
 - Developed and deployed scalable web applications using Java and Spring Boot.
@@ -78,7 +80,7 @@ For example - *Results-driven IT professional with 5+ years of experience in clo
 
 By following these steps, you can create a LinkedIn page that effectively showcases your professional experience and helps you stand out in your industry.
 
-## How to Job Hunt the Smart Way
+## ⭐️ How to Job Hunt the Smart Way
 
 In the modern age, where many jobs end up with well over 200+ job applicants, it's very natural for candidates to feel overwhelmed by the job hunting process. The average candidate might end up submitting a few hundred job applications just to secure one interview, which is absolutely savage when you consider the mental and emotional toll this can have on the candidate.
 
@@ -86,9 +88,9 @@ To make matters worse, from a recruiters standpoint, when a candidate is rejecte
 
 **So what do we do?**
 
-Most people fall into the trap of printing off their one resume, and having a cover letter template where they swap out the company name for every application. And it's easy to understand why - as the volume is forced to go up, there is a sacrifice in the quality of each application as a natural consequence.
+Most people fall into the trap of printing off their one resume, and having a cover letter template where they swap out the company name for every application. And it's easy to understand why - as the volume of applications is forced to go up, there is a sacrifice in the quality of every application as a natural consequence.
 
-Unfortunately, to attract the attention of the recruiter and the ATS screening system, it is however **ABSOLUTELY ESSENTIAL** that every application is tailored to the job posting.
+Unfortunately, to attract the attention of the recruiter and the ATS screening system, it is however **ABSOLUTELY ESSENTIAL** that every application is tailored to the job posting, especially when most people aren't doing this.
 
 *Now you might say - "James, that sounds like an incredible amount of work just to land a job!".*
 
@@ -96,12 +98,17 @@ And you would almost be right. Let me introduce you to the effortless system tha
 
 ### Tailoring Your Application
 
+Tailoring your application, which includes creating an edited resume and cover letter that is specific to the job posting, is critical if you want avoid the uncertainty of a long and draining job hunt. 
 
-tailoring the resume and the cover letter
+1. The first step to the process is to complete the [free resume template](https://www.hyr.sh) as suggested above within [Hyr.sh](https://www.hyr.sh).
 
+2. Once we have completed our resume, Hyr.sh allows us to create a job application where we can very easily copy and paste in the job posting or the job ad, and use the Hyr.sh AI to write us a job specific cover letter that matches our work experience from the resume with the requirements of the job role.
 
+3. Finally, using the same job ad, we can once again use the Hyr.sh AI to generate us a tailored version of our resume that modifies the original version, to create a subversion that is customised to better meet the requirements of the job ad.
 
-## The Final Step - Following Up
+4. Print both the tailored resume and cover letter to PDF and you're ready to submit your job application within minutes.
+
+## ⭐️ The Final Step - Following Up
 
 This step is almost the most critical
 
