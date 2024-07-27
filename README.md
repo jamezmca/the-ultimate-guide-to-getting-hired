@@ -22,7 +22,7 @@ The secret to making a brilliant resume is simple - don't make a bad resume. Thi
 
 Nowadays a lot of people get rejected from a job application before a recruiter has even read their resume - the reason is called ATS or the Applicant Tracking System.
 
-The ATS reads through the resume and determines how compatible your resume is with the needs of the company.
+The ATS is essentially an AI that reads through the resume and determines how compatible your resume is with the needs of the company.
 
 It's also where a lot of candidates make their first few major mistakes:
 
