@@ -100,7 +100,7 @@ Unfortunately, to attract the attention of the recruiter and the ATS screening s
 
 And you would almost be right. Let me introduce you to the effortless system that I use to created a high quality and highly tailored resume and cover letter for every job I apply for.
 
-### Tailoring Your Application
+### The Secret to a Fast & Effective Tailored Application
 
 Tailoring your application, which includes creating an edited resume and cover letter that is specific to the job posting, is critical if you want avoid the uncertainty of a long and draining job hunt. 
 
