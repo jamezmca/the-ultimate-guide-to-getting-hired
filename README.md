@@ -104,11 +104,11 @@ And you would almost be right. Let me introduce you to the effortless system tha
 
 Tailoring your application, which includes creating an edited resume and cover letter that is specific to the job posting, is critical if you want avoid the uncertainty of a long and draining job hunt. 
 
-1. The first step to the process is to complete the [free resume template](https://www.hyr.sh) as suggested above within [Hyr.sh](https://www.hyr.sh).
+1. The first step to the process is to complete the [free resume template](https://www.hyr.sh) as suggested above within [hyr.sh](https://www.hyr.sh).
 
-2. Once we have completed our resume, Hyr.sh allows us to create a job application where we can very easily copy and paste in the job posting or the job ad, and use the Hyr.sh AI to write us a job specific cover letter that matches our work experience from the resume with the requirements of the job role.
+2. Once we have completed our resume, Hyr.sh allows us to create a job application where we can very easily copy and paste in the job posting or the job ad, and use the [hyr.sh](https://www.hyr.sh) AI to write us a job specific cover letter that matches our work experience from the resume with the requirements of the job role.
 
-3. Finally, using the same job ad, we can once again use the Hyr.sh AI to generate us a tailored version of our resume that modifies the original version, to create a subversion that is customised to better meet the requirements of the job ad.
+3. Finally, using the same job ad, we can once again use the [hyr.sh](https://www.hyr.sh) AI to generate us a tailored version of our resume that modifies the original version, to create a subversion that is customised to better meet the requirements of the job ad.
 
 4. Print both the tailored resume and cover letter to PDF and you're ready to submit your job application within minutes.
 
@@ -118,22 +118,24 @@ Of all the steps you need to be doing, this is the one that can have the single 
 
 And it all comes down to cheating the interview process by getting free interviews and referrals.
 
-The first way is to find people who work for companies you like, in roles that you desire; this might be done on LinkedIn. I had a fair amount of success sending connection requests to people with a small note attached that said something like:
+**The first way** is to find people who work for companies you like, in roles that you desire; this might be done on LinkedIn. I had a fair amount of success sending connection requests to people with a small note attached that said something like:
 
-Hi [name],
-I hope this message finds you well.
-I am reaching out as your professional experience really caught my eye. I was wondering if you might be open to having a short informational interview with me? I would love to hear more about your story.
-Cheers, [your_name]
+*Hi [name],* 
+*I hope this message finds you well.* 
+*I am reaching out as your professional experience really caught my eye. I was wondering if you might be open to having a short informational interview with me? I would love to hear more about your story.* 
+*Cheers,* 
+*[your_name]* 
 
-These informational interviews are amazing as they can help you understand what skills are needed for the jobs you want, perhaps they can offer some feedback on your projects, and help you build connections with important people (if they like you, they might offer you a referral); it's basically a free interview.
+These informational interviews are amazing as they can help you understand what skills are needed for the jobs you want, perhaps they can offer some feedback on your projects, and help you build connections with important people (if they like you, they might offer you a referral). It's basically a free interview.
 
-The second piece is equally critical and should be part of your Job Application process. The strategy is, for every job application you submit, you want to find either the job poster or someone working for that company in a related role (the more senior the better, and I often find LinkedIn good for this search), and send them the following message:
+**The second piece** is equally critical and should be part of your Job Application process. The strategy is, for every job application you submit, you want to find either the job poster or someone working for that company in a related role (the more senior the better, and I often find LinkedIn good for this search), and send them the following message:
 
-Hi [name],
-I hope this message finds you well.
-I just noticed your job posting for a [insert_job_posting_title] and as a seasoned [insert_your_relevant_experience], I feel I would be a great fit for the role.
-I'd love to connect and chat about the opportunity.
-Cheers, [your_name]
+*Hi [name],* 
+*I hope this message finds you well.* 
+*I just noticed your job posting for a [insert_job_posting_title] and as an experienced [insert_your_relevant_experience], I feel I would be a great fit for the role.* 
+*I'd love to connect and chat about the opportunity.* 
+*Cheers,* 
+*[your_name]*
 
 Once again, if they respond, it's basically a free interview. A lot of the application process is just getting the hiring team to meet you and see more than just a resume on a screen.
 
