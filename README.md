@@ -165,4 +165,7 @@ And that's it - do these things and you'll land your dream job in no time.
 Thanks for reading.
 
 Cheers,
-James
+
+James McArthur
+
+Founder & CEO of Hyr.sh ⋅ [LinkedIn](https://www.linkedin.com/in/jamezmcarthur/) ⋅ [Hyr.sh LinkedIn Page](https://www.linkedin.com/company/hyr-sh)
