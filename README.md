@@ -1,4 +1,4 @@
-[!hyr-sh-banner](/hyrsh_banner%20v2.png)
+[[!hyr-sh-banner](/hyrsh_banner%20v2.png)](https://www.hyr.sh)
 
 # How To Get Hired - The Complete Guide 🔥
 
