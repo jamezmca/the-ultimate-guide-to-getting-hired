@@ -8,6 +8,23 @@ At the core of getting hired, there are 3 main steps that a huge majority of peo
 
 If you follow this guide you will become one of the top candidates every single time.
 
+## ⭐️ What You Need to Know About Job Hunting
+
+Before we get into the nitty gritty of creating an exception job application, there's a few things you should understand from a recruiters perspective.
+
+When I create a job ad, it might receive receive 200 applications within a day, and boy is it an eye opening experience. 
+
+**Here is a statistical breakdown of an average job posting:**
+
+Of the 200 applications, 10 - 15% of them will be abhorrent and egregiously bad - it's rather shocking and these applications are immediately dismissed, if not earlier rejected by the ATS (which we'll cover shortly).
+
+Another near 85% of applications are classed as mediocre, unremarkable, and ultimately average. A lot of these candidates *could* have a great job application, but they generally make a number of the common mistakes discussed below. 
+
+The unfortunate reality for these candidates is that they miss out on a number of great opportunities as recruiters will discard their resumes in favor of the 5 - 7% of applicants with an exceptional application, a great resume and an appealing cover letter.
+
+You goal is to be one of the top 5 - 7% of applicants every single time. Let's find out how...
+
+
 ## ⭐️ Getting Prepared - Are You Ready to Apply for Jobs?
 
 The first step to becoming a hireable candidate is to prepare yourself for a successful job hunt. There are two primary elements to this part of the job hunt, with some extra parts that are industry specific.
