@@ -10,9 +10,9 @@ If you follow this guide you will become one of the top candidates every single 
 
 ## ⭐️ What You Need to Know About Job Hunting
 
-Before we get into the nitty gritty of creating an exception job application, there's a few things you should understand from a recruiters perspective.
+Before we get into the nitty gritty of creating an exceptional job application, there's a few things you should understand about the job hunting process from a recruiters perspective.
 
-When I create a job ad, it might receive receive 200 applications within a day, and boy is it an eye opening experience. 
+When I create a job ad, it might receive 200 applications within a day, and boy is it an eye opening experience. 
 
 **Here is a statistical breakdown of an average job posting:**
 
@@ -22,7 +22,7 @@ Another near 85% of applications are classed as mediocre, unremarkable, and ulti
 
 The unfortunate reality for these candidates is that they miss out on a number of great opportunities as recruiters will discard their resumes in favor of the 5 - 7% of applicants with an exceptional application, a great resume and an appealing cover letter.
 
-You goal is to be one of the top 5 - 7% of applicants every single time. Let's find out how...
+Your goal is to be one of the top 5 - 7% of applicants every single time. Let's find out how...
 
 
 ## ⭐️ Getting Prepared - Are You Ready to Apply for Jobs?
