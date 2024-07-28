@@ -1,3 +1,5 @@
+[!hyr-sh-banner](/hyrsh_banner%20v2.png)
+
 # How To Get Hired - The Complete Guide 🔥
 
 This comprehensive guide will teach you everything you need to know to master the job application process, and be the best candidate that gets hired for the job ✅
@@ -54,7 +56,7 @@ It's also where a lot of candidates make their first few major mistakes:
 
 If you want to achieve all of this very easily, I recommend trying out the enhance feature with [hyr.sh](https://www.hyr.sh). You can easily either enhance an existing [hyr.sh](https://www.hyr.sh) resume, or upload your own and have it enhanced and converted to the [hyr.sh](https://www.hyr.sh) resume template within about 1 minute.
 
-**Also,** after you've filled out the template you can get a free resume review by an ex-recruiter - check out the instructions [here](https://www.hyr.sh/feedback).
+**Once you've**  built your resume, be sure to get it reviewed for free by an ex-recruiter - see the instructions [here](https://www.hyr.sh/feedback).
 
 ### A Guide to LinkedIn
 
