@@ -123,7 +123,7 @@ And you would almost be right. Let me introduce you to the effortless system tha
 
 ### The Secret to a Fast & Effective Tailored Application
 
-Tailoring your application, which includes creating an edited resume and cover letter that is specific to the job posting, is critical if you want avoid the uncertainty of a long and draining job hunt. 
+Tailoring your application, which includes creating an edited resume and cover letter that is specific to the job posting, is critical if you want avoid the uncertainty of a long and draining job hunt. There are myriad ways you can do this, and the following is my personal recommendation:
 
 1. The first step to the process is to complete the [free resume template](https://www.hyr.sh) as suggested above within [hyr.sh](https://www.hyr.sh).
 
