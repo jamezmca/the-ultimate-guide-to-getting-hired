@@ -2,11 +2,12 @@
 
 # How To Get Hired - The Complete Guide 🔥
 
-This comprehensive guide will teach you everything you need to know to master the job application process, and be the best candidate that gets hired for the job ✅
+This comprehensive guide will teach you everything you need to know to master the job application process, become the best candidate for the job, and get hired ✅
 
-At the core of getting hired, there are 3 main steps that a huge majority of people fail to execute successfully - when I recruit for technical roles nearly 95% are failing as they make an error on one of more of these steps. This leads to a longer job search, and also results in them missing out on great opportunities, even when the competition (other candidates) might be less qualified than they are.
+At the core of landing a job, there are three main steps that a majority of people fail to execute successfully. When I recruit for technical roles, nearly 95% of candidates are rejected as their application falls victim to one or more of the common mistakes discussed in this guide. This leads to a longer job search and results in missing out on great opportunities, even when the competition (other candidates) might be less qualified.
 
-If you follow this guide you will become one of the top candidates every single time.
+If you follow this guide, you will become one of the top candidates every single time.
+
 
 ## ⭐️ What You Need to Know About Job Hunting
 
