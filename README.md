@@ -168,4 +168,4 @@ Cheers,
 
 James McArthur
 
-Founder & CEO of Hyr.sh ⋅ [LinkedIn](https://www.linkedin.com/in/jamezmcarthur/) ⋅ [Hyr.sh LinkedIn Page](https://www.linkedin.com/company/hyr-sh)
+Founder & CEO of Hyr.sh ⋅ Connect with me @ [LinkedIn](https://www.linkedin.com/in/jamezmcarthur/) ⋅ [Hyr.sh LinkedIn Page](https://www.linkedin.com/company/hyr-sh)
