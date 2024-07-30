@@ -1,6 +1,8 @@
 [[!hyr-sh-banner](/hyrsh_banner%20v2.png)](https://www.hyr.sh)
 
-# How To Get Hired - The Complete Guide 🔥
+# How to Accelerate your Job Hunt and Get Hired Faster
+
+By James McArthur | Founder & CEO of Hyr.sh | Software Engineer 
 
 This comprehensive guide will teach you everything you need to know to master the job application process, become the best candidate for the job, and get hired ✅
 
@@ -8,8 +10,14 @@ At the core of landing a job, there are three main steps that a majority of peop
 
 If you follow this guide, you will become one of the top candidates every single time.
 
+#### Table of Contents
 
-## ⭐️ What You Need to Know About Job Hunting
+1. What You Need to Know About Job Hunting
+2. Getting Prepared - Are You Ready to Apply for Jobs?
+3. How to Job Hunt the Smart Way
+4. The Final Step - The Secret No One Tells You
+
+## What You Need to Know About Job Hunting
 
 Before we get into the nitty gritty of creating an exceptional job application, there's a few things you should understand about the job hunting process from a recruiters perspective.
 
@@ -26,7 +34,7 @@ The unfortunate reality for these candidates is that they miss out on a number o
 Your goal is to be one of the top 5 - 7% of applicants every single time. Let's find out how...
 
 
-## ⭐️ Getting Prepared - Are You Ready to Apply for Jobs?
+## Getting Prepared - Are You Ready to Apply for Jobs?
 
 The first step to becoming a hireable candidate is to prepare yourself for a successful job hunt. There are two primary elements to this part of the job hunt, with some extra parts that are industry specific.
 
@@ -106,7 +114,7 @@ By following these steps, you can create a LinkedIn page that effectively showca
 
 *Obviously, if you're in tech then you'll need a web portfolio and/or a GitHub profile, and likewise for many other industries*.
 
-## ⭐️ How to Job Hunt the Smart Way
+## How to Job Hunt the Smart Way
 
 In the modern age, where many jobs end up with well over 200+ job applicants, it's very natural for candidates to feel overwhelmed by the job hunting process. The average candidate might end up submitting a few hundred job applications just to secure one interview, which is absolutely savage when you consider the mental and emotional toll this can have on the candidate.
 
@@ -134,7 +142,7 @@ Tailoring your application, which includes creating an edited resume and cover l
 
 4. Print both the tailored resume and cover letter to PDF and you're ready to submit your job application within minutes.
 
-## ⭐️ The Final Step - Following Up
+## The Final Step - The Secret No One Tells You
 
 Of all the steps you need to be doing, this is the one that can have the single biggest effect on your employment prospects and job hunt.
 
